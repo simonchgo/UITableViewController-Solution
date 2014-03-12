@@ -1,5 +1,5 @@
 //
-//  SCViewController.h
+//  SCTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Szymon Cabaj on 3/12/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SCViewController : UIViewController
+@interface SCTableViewController : UITableViewController
 
 @end
